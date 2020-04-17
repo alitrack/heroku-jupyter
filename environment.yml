@@ -5,7 +5,9 @@ dependencies:
   - jupyterlab
   - jupyter-server-proxy
   - streamlit
-  - python-opencv
+  - opencv-python
+  - ffsend
+  - youtube-dl
   - ipywidgets
   - requests
   # bind ipython version (compatibility to pgcontents)
