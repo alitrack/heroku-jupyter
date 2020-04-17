@@ -14,15 +14,10 @@ dependencies:
   - cryptography 
   - mako
   - psycopg2
+  - ipython-sql
   - six
   - sqlalchemy
   - nose
   - pip:
     - pgcontents
-    - jupyterlab
-    - jupyter-server-proxy
-    - streamlit
-    - opencv-python
-    - ffsend
-    - youtube-dl
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
